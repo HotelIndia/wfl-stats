@@ -1,0 +1,35 @@
+Team1,Team2,gameday,game_time
+North 60,Double Doubles,GameDay1,early
+Sports Experts,RDFC,GameDay1,late
+Double Doubles,Sports Experts,GameDay2,early
+North 60,RDFC,GameDay2,late
+Sports Experts,North 60,GameDay3,early
+Double Doubles,RDFC,GameDay3,late
+RDFC,Sports Experts,GameDay4,early
+North 60,Double Doubles,GameDay4,late
+North 60,RDFC,GameDay5,early
+Sports Experts,Double Doubles,GameDay5,late
+Double Doubles,RDFC,GameDay6,early
+North 60,Sports Experts,GameDay6,late
+Sports Experts,RDFC,GameDay7,early
+North 60,Double Doubles,GameDay7,late
+RDFC,North 60,GameDay8,early
+Sports Experts,Double Doubles,GameDay8,late
+North 60,Sports Experts,GameDay9,early
+RDFC,Double Doubles,GameDay9,late
+Double Doubles,North 60,GameDay10,early
+RDFC,Sports Experts,GameDay10,late
+Sports Experts,Double Doubles,GameDay11,early
+North 60,RDFC,GameDay11,late
+RDFC,Double Doubles,GameDay12,early
+Sports Experts,North 60,GameDay12,late
+Sports Experts,RDFC,GameDay13,early
+North 60,Double Doubles,GameDay13,late
+North 60,RDFC,GameDay14,early
+Double Doubles,Sports Experts,GameDay14,late
+Sports Experts,North 60,GameDay15,early
+Double Doubles,RDFC,GameDay15,late
+RDFC,Double Doubles,Semis,early
+Sports Experts,North 60,Semis,late
+RDFC,North 60,Finals,early
+Sports Experts,Double Doubles,Finals,late

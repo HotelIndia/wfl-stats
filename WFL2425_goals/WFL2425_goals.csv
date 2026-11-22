@@ -1,0 +1,254 @@
+game_day,Player,Team,goal_num,game_time
+GameDay1,Caleb Kelly,Double Doubles,1,early
+GameDay1,Mark Chandler,Double Doubles,1,early
+GameDay1,Travis Banks,Double Doubles,1,early
+GameDay1,Tyler Milton,Double Doubles,1,early
+GameDay1,Dom Pehar,North 60,1,early
+GameDay1,Matt Murphy,North 60,1,early
+GameDay1,Jackson Berry,RDFC,1,late
+GameDay1,Jesse Latoski,RDFC,1,late
+GameDay1,Miles Hume,RDFC,1,late
+GameDay1,Simon Kishchuk,RDFC,1,late
+GameDay1,Tarek Bos,RDFC,1,late
+GameDay1,Tarek Bos,RDFC,2,late
+GameDay1,Tarek Bos,RDFC,3,late
+GameDay1,Etnik Taraku,Sports Experts,1,late
+GameDay1,Mohamed Dahalani,Sports Experts,1,late
+GameDay1,Mohamed Dahalani,Sports Experts,2,late
+GameDay2,Alex Johnston,Double Doubles,1,early
+GameDay2,Caleb Kelly,Double Doubles,1,early
+GameDay2,Logan Potter,Double Doubles,1,early
+GameDay2,Tyler Milton,Double Doubles,1,early
+GameDay2,Austin Cho,Sports Experts,1,early
+GameDay2,Austin Cho,Sports Experts,2,early
+GameDay2,Mohamed Dahalani,Sports Experts,1,early
+GameDay2,Alvarinho Diaz Vega,North 60,1,late
+GameDay2,Alvarinho Diaz Vega,North 60,2,late
+GameDay2,Cody Adams,North 60,1,late
+GameDay2,Dom Pehar,North 60,1,late
+GameDay2,Kade Bringsli,North 60,1,late
+GameDay2,Kyan Morrison,North 60,1,late
+GameDay2,Matt Murphy,North 60,1,late
+GameDay2,Jackson Berry,RDFC,1,late
+GameDay2,Jesse Latoski,RDFC,1,late
+GameDay3,Alvarinho Diaz Vega,North 60,1,early
+GameDay3,Cody Adams,North 60,1,early
+GameDay3,Austin Cho,Sports Experts,1,early
+GameDay3,Gabriel Mahamad,Sports Experts,1,early
+GameDay3,Gabriel Mahamad,Sports Experts,2,early
+GameDay3,Gabriel Mahamad,Sports Experts,3,early
+GameDay3,Gabriel Mahamad,Sports Experts,4,early
+GameDay3,Caleb Kelly,Double Doubles,1,late
+GameDay3,Cody Reaume,Double Doubles,1,late
+GameDay3,Ryan Burke,Double Doubles,1,late
+GameDay3,Tyler Milton,Double Doubles,1,late
+GameDay3,Franklin Fru,RDFC,1,late
+GameDay3,Harrison Kwok,RDFC,1,late
+GameDay3,Matthew Larsen,RDFC,1,late
+GameDay3,Owen Hedstrom-Langford ,RDFC,1,late
+GameDay4,Harrison Kwok,RDFC,1,early
+GameDay4,Marten Sealy ,RDFC,1,early
+GameDay4,Marten Sealy ,RDFC,2,early
+GameDay4,Gabriel Mahamad,Sports Experts,1,early
+GameDay4,Gabriel Mahamad,Sports Experts,2,early
+GameDay4,Juan Pablo Herrera,Sports Experts,1,early
+GameDay4,Alex Johnston,Double Doubles,1,late
+GameDay4,Cody Reaume,Double Doubles,1,late
+GameDay4,Ryan Burke,Double Doubles,1,late
+GameDay4,Ryan Burke,Double Doubles,2,late
+GameDay4,Kade Bringsli,North 60,1,late
+GameDay4,Matt Murphy,North 60,1,late
+GameDay5,Dom Pehar,North 60,1,early
+GameDay5,Dom Pehar,North 60,2,early
+GameDay5,Dom Pehar,North 60,3,early
+GameDay5,Kade Bringsli,North 60,1,early
+GameDay5,Kade Bringsli,North 60,2,early
+GameDay5,Kyan Morrison,North 60,1,early
+GameDay5,Marten Sealy ,RDFC,1,early
+GameDay5,Caleb Kelly,Double Doubles,1,late
+GameDay5,Caleb Kelly,Double Doubles,2,late
+GameDay5,Logan Potter,Double Doubles,1,late
+GameDay5,Travis Banks,Double Doubles,1,late
+GameDay5,Travis Banks,Double Doubles,2,late
+GameDay5,Tyler Milton,Double Doubles,1,late
+GameDay5,Gabriel Mahamad,Sports Experts,1,late
+GameDay5,Mohamed Dahalani,Sports Experts,1,late
+GameDay6,Alex Johnston,Double Doubles,1,early
+GameDay6,Andreas Lavanderos,Double Doubles,1,early
+GameDay6,Marten Sealy ,RDFC,1,early
+GameDay6,Alvarinho Diaz Vega,North 60,1,late
+GameDay6,Dom Pehar,North 60,1,late
+GameDay6,Karl Weise,North 60,1,late
+GameDay6,Austin Cho,Sports Experts,1,late
+GameDay6,Austin Cho,Sports Experts,2,late
+GameDay6,Austin Cho,Sports Experts,3,late
+GameDay6,Evan Libke,Sports Experts,1,late
+GameDay6,Gabriel Mahamad,Sports Experts,1,late
+GameDay7,Harrison Kwok,RDFC,1,early
+GameDay7,Gabriel Mahamad,Sports Experts,1,early
+GameDay7,Gabriel Mahamad,Sports Experts,2,early
+GameDay7,Gabriel Mahamad,Sports Experts,3,early
+GameDay7,Gabriel Mahamad,Sports Experts,4,early
+GameDay7,Mohamed Dahalani,Sports Experts,1,early
+GameDay7,Andreas Lavanderos,Double Doubles,1,late
+GameDay7,Cody Reaume,Double Doubles,1,late
+GameDay7,Mark Chandler,Double Doubles,1,late
+GameDay7,Tyler Milton,Double Doubles,1,late
+GameDay7,Alvarinho Diaz Vega,North 60,1,late
+GameDay7,Kade Bringsli,North 60,1,late
+GameDay7,Kyan Morrison,North 60,1,late
+GameDay8,Kade Bringsli,North 60,1,early
+GameDay8,Kade Bringsli,North 60,2,early
+GameDay8,Kade Bringsli,North 60,3,early
+GameDay8,Kaden Gregory,North 60,1,early
+GameDay8,Karl Weise,North 60,1,early
+GameDay8,Leo Whittaker,North 60,1,early
+GameDay8,Leo Whittaker,North 60,2,early
+GameDay8,Harrison Kwok,RDFC,1,early
+GameDay8,Harrison Kwok,RDFC,2,early
+GameDay8,Jesse Latoski,RDFC,1,early
+GameDay8,Jesse Latoski,RDFC,2,early
+GameDay8,Jesse Latoski,RDFC,3,early
+GameDay8,Caleb Kelly,Double Doubles,1,late
+GameDay8,Cody Reaume,Double Doubles,1,late
+GameDay8,Austin Cho,Sports Experts,1,late
+GameDay8,Austin Cho,Sports Experts,2,late
+GameDay8,Evan Libke,Sports Experts,1,late
+GameDay9,Kade Bringsli,North 60,1,early
+GameDay9,Kade Bringsli,North 60,2,early
+GameDay9,Kade Bringsli,North 60,3,early
+GameDay9,Kade Bringsli,North 60,4,early
+GameDay9,Kaden Gregory,North 60,1,early
+GameDay9,Kaden Gregory,North 60,2,early
+GameDay9,Karl Weise,North 60,1,early
+GameDay9,Kyan Morrison,North 60,1,early
+GameDay9,Evan Libke,Sports Experts,1,early
+GameDay9,Evan Libke,Sports Experts,2,early
+GameDay9,Evan Libke,Sports Experts,3,early
+GameDay9,Evan Libke,Sports Experts,4,early
+GameDay9,Mohamed Dahalani,Sports Experts,1,early
+GameDay9,Caleb Kelly,Double Doubles,1,late
+GameDay9,Michael Irish,Double Doubles,1,late
+GameDay9,Ryan Burke,Double Doubles,1,late
+GameDay9,Travis Banks,Double Doubles,1,late
+GameDay9,Ammon Hoefs,RDFC,1,late
+GameDay9,Jaron Kressman,RDFC,1,late
+GameDay9,Jaron Kressman,RDFC,2,late
+GameDay9,Miles Hume,RDFC,1,late
+GameDay9,Miles Hume,RDFC,2,late
+GameDay10,Caleb Kelly,Double Doubles,1,early
+GameDay10,Mark Chandler,Double Doubles,1,early
+GameDay10,Kyan Morrison,North 60,1,early
+GameDay11,Logan Potter,Double Doubles,1,early
+GameDay11,Mark Chandler,Double Doubles,1,early
+GameDay11,Mark Chandler,Double Doubles,2,early
+GameDay11,Mark Chandler,Double Doubles,3,early
+GameDay11,Travis Banks,Double Doubles,1,early
+GameDay11,Boris Hoefs,Sports Experts,1,early
+GameDay11,Cody Adams,North 60,1,late
+GameDay11,Cody Adams,North 60,2,late
+GameDay11,Kade Bringsli,North 60,1,late
+GameDay11,Matt Murphy,North 60,1,late
+GameDay11,Franklin Fru,RDFC,1,late
+GameDay11,Franklin Fru,RDFC,2,late
+GameDay11,Harrison Kwok,RDFC,1,late
+GameDay11,Jaron Kressman,RDFC,1,late
+GameDay11,Jesse Latoski,RDFC,1,late
+GameDay11,Matthew Larsen,RDFC,1,late
+GameDay11,Owen Hedstrom-Langford ,RDFC,1,late
+GameDay12,Cody Reaume,Double Doubles,1,early
+GameDay12,Ryan Burke,Double Doubles,1,early
+GameDay12,Tyler Milton,Double Doubles,1,early
+GameDay12,Franklin Fru,RDFC,1,early
+GameDay12,Harrison Kwok,RDFC,1,early
+GameDay12,Lars Jessup,RDFC,1,early
+GameDay12,Owen Hedstrom-Langford ,RDFC,1,early
+GameDay12,Kade Bringsli,North 60,1,late
+GameDay12,Kaden Gregory,North 60,1,late
+GameDay12,Kyan Morrison,North 60,1,late
+GameDay12,Austin Cho,Sports Experts,1,late
+GameDay12,Ben Warburton,Sports Experts,1,late
+GameDay12,Evan Libke,Sports Experts,1,late
+GameDay12,Yash Jhunjhunwala,Sports Experts,1,late
+GameDay13,Franklin Fru,RDFC,1,early
+GameDay13,Harrison Kwok,RDFC,1,early
+GameDay13,Jaron Kressman,RDFC,1,early
+GameDay13,Lars Jessup,RDFC,1,early
+GameDay13,Ben Warburton,Sports Experts,1,early
+GameDay13,Ben Warburton,Sports Experts,2,early
+GameDay13,Mohamed Dahalani,Sports Experts,1,early
+GameDay13,Mohamed Dahalani,Sports Experts,2,early
+GameDay13,Mohamed Dahalani,Sports Experts,3,early
+GameDay13,Mohamed Dahalani,Sports Experts,4,early
+GameDay13,Caleb Kelly,Double Doubles,1,late
+GameDay13,Cody Reaume,Double Doubles,1,late
+GameDay14,Jamie Joe-Hudson,North 60,1,early
+GameDay14,Karl Weise,North 60,1,early
+GameDay14,Karl Weise,North 60,2,early
+GameDay14,Karl Weise,North 60,3,early
+GameDay14,Kyan Morrison,North 60,1,early
+GameDay14,Lars Jessup,RDFC,1,early
+GameDay14,Miles Hume,RDFC,1,early
+GameDay14,Caleb Kelly,Double Doubles,1,late
+GameDay14,Caleb Kelly,Double Doubles,2,late
+GameDay14,Logan Potter,Double Doubles,1,late
+GameDay14,Travis Banks,Double Doubles,1,late
+GameDay14,Travis Banks,Double Doubles,2,late
+GameDay14,Tyler Milton,Double Doubles,1,late
+GameDay14,Evan Libke,Sports Experts,1,late
+GameDay15,Cody Adams,North 60,1,early
+GameDay15,Cody Adams,North 60,2,early
+GameDay15,Dom Pehar,North 60,1,early
+GameDay15,Dom Pehar,North 60,2,early
+GameDay15,Kaden Gregory,North 60,1,early
+GameDay15,Kaden Gregory,North 60,2,early
+GameDay15,Matt Murphy,North 60,1,early
+GameDay15,Evan Libke,Sports Experts,1,early
+GameDay15,Mohamed Dahalani,Sports Experts,1,early
+GameDay15,Mohamed Dahalani,Sports Experts,2,early
+GameDay15,Mohamed Dahalani,Sports Experts,3,early
+GameDay15,Michael Irish,Double Doubles,1,late
+GameDay15,Tyler Milton,Double Doubles,1,late
+GameDay15,Harrison Kwok,RDFC,1,late
+GameDay15,Harrison Kwok,RDFC,2,late
+GameDay15,Jaron Kressman,RDFC,1,late
+Semis,Caleb Kelly,Double Doubles,1,early
+Semis,Michael Irish,Double Doubles,1,early
+Semis,Ryan Burke,Double Doubles,1,early
+Semis,Tyler Milton,Double Doubles,1,early
+Semis,Harrison Kwok,RDFC,1,early
+Semis,Miles Hume,RDFC,1,early
+Semis,Dom Pehar,North 60,1,late
+Semis,Kade Bringsli,North 60,1,late
+Semis,Kade Bringsli,North 60,2,late
+Semis,Kyan Morrison,North 60,1,late
+Semis,Austin Cho,Sports Experts,1,late
+Semis,Ben Warburton,Sports Experts,1,late
+Semis,Evan Libke,Sports Experts,1,late
+Semis,Yash Jhunjhunwala,Sports Experts,1,late
+Semis,Yash Jhunjhunwala,Sports Experts,2,late
+Semis,Yash Jhunjhunwala,Sports Experts,3,late
+Finals,Cody Adams,North 60,1,early
+Finals,Kade Bringsli,North 60,1,early
+Finals,Kade Bringsli,North 60,2,early
+Finals,Kade Bringsli,North 60,3,early
+Finals,Kyan Morrison,North 60,1,early
+Finals,Micha Oslund,North 60,1,early
+Finals,Micha Oslund,North 60,2,early
+Finals,Franklin Fru,RDFC,1,early
+Finals,Harrison Kwok,RDFC,1,early
+Finals,Harrison Kwok,RDFC,2,early
+Finals,Jaron Kressman,RDFC,1,early
+Finals,Lars Jessup,RDFC,1,early
+Finals,Marten Sealy ,RDFC,1,early
+Finals,Ryan Burke,Double Doubles,1,late
+Finals,Ryan Burke,Double Doubles,2,late
+Finals,Travis Banks,Double Doubles,1,late
+Finals,Travis Banks,Double Doubles,2,late
+Finals,Tyler Milton,Double Doubles,1,late
+Finals,Ben Warburton,Sports Experts,1,late
+Finals,Evan Libke,Sports Experts,1,late
+Finals,Gabriel Mahamad,Sports Experts,1,late
+Finals,Gabriel Mahamad,Sports Experts,2,late
+Finals,Gabriel Mahamad,Sports Experts,3,late
+Finals,Mohamed Dahalani,Sports Experts,1,late

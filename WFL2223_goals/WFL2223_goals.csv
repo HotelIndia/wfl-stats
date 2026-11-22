@@ -1,0 +1,140 @@
+game_day,Player,Team,goal_num,game_time
+GameDay1,Dom,Idolos,1,early
+GameDay1,Mark Chandler,Idolos,1,early
+GameDay1,Tyler,Idolos,1,early
+GameDay1,Huey,Riverdale FC,1,early
+GameDay1,Huey,Riverdale FC,2,early
+GameDay1,Marten,Riverdale FC,1,early
+GameDay1,Tarek,Riverdale FC,1,early
+GameDay1,Caleb Mercier,North 60,1,late
+GameDay1,Cody Reaume CJ,North 60,1,late
+GameDay1,Leo,North 60,1,late
+GameDay2,Ehab,Idolos,1,early
+GameDay2,Gabe,Idolos,1,early
+GameDay2,Gabe,Idolos,2,early
+GameDay2,Mark Chandler,Idolos,1,early
+GameDay2,Ben Kishchuk ,North 60,1,early
+GameDay2,Ben Warburton,North 60,1,early
+GameDay2,Marcelo,North 60,1,early
+GameDay2,James Kenneth,Riverdale FC,1,late
+GameDay2,James Kenneth,Riverdale FC,2,late
+GameDay2,Jesse,Riverdale FC,1,late
+GameDay2,Marten,Riverdale FC,1,late
+GameDay2,Daniel Philips Freedman,Timbits,1,late
+GameDay2,Evan Howells ,Timbits,1,late
+GameDay2,Kade,Timbits,1,late
+GameDay3,Gabe,Idolos,1,early
+GameDay3,Gabe,Idolos,2,early
+GameDay3,Joe Hanson,Idolos,1,early
+GameDay3,Joe Hanson,Idolos,2,early
+GameDay3,Mark Chandler,Idolos,1,early
+GameDay3,Rhys,Idolos,1,early
+GameDay3,Daniel Philips Freedman,Timbits,1,early
+GameDay3,Kade,Timbits,1,early
+GameDay3,Ben Kishchuk ,North 60,1,late
+GameDay3,Lars,North 60,1,late
+GameDay3,Leo,North 60,1,late
+GameDay3,Leo,North 60,2,late
+GameDay3,Leo,North 60,3,late
+GameDay3,Simon,North 60,1,late
+GameDay4,Ehab,Idolos,1,early
+GameDay4,Rhys,Idolos,1,early
+GameDay4,Rhys,Idolos,2,early
+GameDay4,Ben Warburton,North 60,1,late
+GameDay4,Leo,North 60,1,late
+GameDay5,Harry,Riverdale FC,1,early
+GameDay5,Harry,Riverdale FC,2,early
+GameDay5,Javier,Riverdale FC,1,early
+GameDay5,Owen,Riverdale FC,1,early
+GameDay5,Owen,Riverdale FC,2,early
+GameDay5,Ashton,Timbits,1,early
+GameDay5,Ashton,Timbits,2,early
+GameDay5,Evan Howells ,Timbits,1,early
+GameDay5,Dom,Idolos,1,late
+GameDay5,Mark Chandler,Idolos,1,late
+GameDay5,Ben Kishchuk ,North 60,1,late
+GameDay5,Leo,North 60,1,late
+GameDay6,Ben Kishchuk ,North 60,1,early
+GameDay6,Ben Kishchuk ,North 60,2,early
+GameDay6,Ben Warburton,North 60,1,early
+GameDay6,Ben Warburton,North 60,2,early
+GameDay6,Kyle,North 60,1,early
+GameDay6,Simon,North 60,1,early
+GameDay6,Mark Huntley ,Riverdale FC,1,early
+GameDay6,Owen,Riverdale FC,1,early
+GameDay6,Ash,Idolos,1,late
+GameDay7,Leo,North 60,1,early
+GameDay7,Leo,North 60,2,early
+GameDay7,Kade,Timbits,1,early
+GameDay7,Gabe,Idolos,1,late
+GameDay7,Mark Chandler,Idolos,1,late
+GameDay7,Rhys,Idolos,1,late
+GameDay8,Callum,Idolos,1,early
+GameDay8,Joe Hanson,Idolos,1,early
+GameDay8,Marek ,Idolos,1,early
+GameDay8,Ben Kishchuk ,North 60,1,early
+GameDay8,Ben Warburton,North 60,1,early
+GameDay8,Leo,North 60,1,early
+GameDay8,Harry,Riverdale FC,1,late
+GameDay8,Harry,Riverdale FC,2,late
+GameDay8,Harry,Riverdale FC,3,late
+GameDay8,Harry,Riverdale FC,4,late
+GameDay8,Mark Huntley ,Riverdale FC,1,late
+GameDay8,Mark Huntley ,Riverdale FC,2,late
+GameDay8,Ashton,Timbits,1,late
+GameDay8,Kade,Timbits,1,late
+GameDay8,Kaden ,Timbits,1,late
+GameDay8,Kaden ,Timbits,2,late
+GameDay9,Ade,North 60,1,early
+GameDay9,Cody Reaume CJ,North 60,1,early
+GameDay9,Cody Reaume CJ,North 60,2,early
+GameDay9,Craig,North 60,1,early
+GameDay9,Marcelo,North 60,1,early
+GameDay9,Harry,Riverdale FC,1,early
+GameDay9,Jesse,Riverdale FC,1,early
+GameDay9,Jesse,Riverdale FC,2,early
+GameDay10,Ash,Idolos,1,early
+GameDay10,Ehab,Idolos,1,early
+GameDay10,Gabe,Idolos,1,early
+GameDay10,Gabe,Idolos,2,early
+GameDay10,Tyler,Idolos,1,early
+GameDay10,Harry,Riverdale FC,1,early
+GameDay10,Jesse,Riverdale FC,1,early
+GameDay10,Ben Warburton,North 60,1,late
+GameDay10,Ben Warburton,North 60,2,late
+GameDay10,Leo,North 60,1,late
+GameDay11,Harry,Riverdale FC,1,early
+GameDay11,Huey,Riverdale FC,1,early
+GameDay11,Jesse,Riverdale FC,1,early
+GameDay11,Marten,Riverdale FC,1,early
+GameDay11,Marten,Riverdale FC,2,early
+GameDay11,Cody Adams,Timbits,1,early
+GameDay11,Daniel Philips Freedman,Timbits,1,early
+GameDay11,Daniel Philips Freedman,Timbits,2,early
+GameDay11,Daniel Philips Freedman,Timbits,3,early
+GameDay11,Kade,Timbits,1,early
+GameDay11,Kade,Timbits,2,early
+GameDay11,Kade,Timbits,3,early
+GameDay11,Kade,Timbits,4,early
+GameDay11,Kaelen,Timbits,1,early
+GameDay11,Alvaro,North 60,1,late
+GameDay11,Ben Warburton,North 60,1,late
+GameDay11,Kyle,North 60,1,late
+GameDay11,Kyle,North 60,2,late
+GameDay11,Lars,North 60,1,late
+GameDay11,Lars,North 60,2,late
+GameDay12,Dom,Idolos,1,early
+GameDay12,Gabe,Idolos,1,early
+GameDay12,Gabe,Idolos,2,early
+GameDay12,Tyler,Idolos,1,early
+GameDay12,Tyler,Idolos,2,early
+GameDay12,Kade,Timbits,1,early
+GameDay12,Kade,Timbits,2,early
+GameDay12,Kade,Timbits,3,early
+GameDay12,Alvaro,North 60,1,late
+GameDay12,Ben Warburton,North 60,1,late
+GameDay12,Cody Reaume CJ,North 60,1,late
+GameDay12,Cody Reaume CJ,North 60,2,late
+GameDay12,Lars,North 60,1,late
+GameDay12,Leo,North 60,1,late
+GameDay12,Leo,North 60,2,late

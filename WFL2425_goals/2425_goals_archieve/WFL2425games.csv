@@ -1,0 +1,35 @@
+GameID,Gameday,Date,Time,Team1,Team1_goals,Team2,Team2_goals,Goal_Highlights,"Veo Views (as of Aug 21, 2025)",Notes
+24/25-GameDay1-early,1,"October 23, 2024",early,North 60,3,Double Doubles,4,0:00,118,
+24/25-GameDay1-late,1,"October 23, 2024",late,Sports Experts,3,RDFC,7,1:03,0,
+24/25-GameDay2-early,2,"October 30, 2024",early,Double Doubles,4,Sports Experts,3,,0,game not filmed
+24/25-GameDay2-late,2,"October 30, 2024",late,North 60,7,RDFC,2,,0,game not filmed
+24/25-GameDay3-early,3,"November 6, 2024",early,Sports Experts,5,North 60,2,3:09,77,some of first half not filmed
+24/25-GameDay3-late,3,"November 6, 2024",late,Double Doubles,4,RDFC,4,4:23,0,
+24/25-GameDay4-early,4,"November 13, 2024",early,RDFC,3,Sports Experts,3,5:43,98,some of first half not filmed
+24/25-GameDay4-late,4,"November 13, 2024",late,North 60,2,Double Doubles,4,6:46,0,
+24/25-GameDay5-early,5,"November 20, 2024",early,North 60,6,RDFC,1,7:56,53,some of first half not filmed
+24/25-GameDay5-late,5,"November 20, 2024",late,Sports Experts,2,Double Doubles,6,9:17,0,
+24/25-GameDay6-early,6,"November 27, 2024",early,Double Doubles,2,RDFC,1,x,71,
+24/25-GameDay6-late,6,"November 27, 2024",late,North 60,3,Sports Experts,5,x,0,
+24/25-GameDay7-early,7,"December 4, 2024",early,Sports Experts,5,RDFC,1,x,70,
+24/25-GameDay7-late,7,"December 4, 2024",late,North 60,3,Double Doubles,4,x,0,
+24/25-GameDay8-early,8,"December 11, 2024",early,RDFC,5,North 60,7,x,71,
+24/25-GameDay8-late,8,"December 11, 2024",late,Sports Experts,3,Double Doubles,2,x,0,
+24/25-GameDay9-early,9,"January 8, 2025",early,North 60,8,Sports Experts,5,x,44,
+24/25-GameDay9-late,9,"January 8, 2025",late,RDFC,5,Double Doubles,5,x,42,
+24/25-GameDay10-early,10,"January 15, 2025",early,Double Doubles,2,North 60,1,x,28,
+24/25-GameDay10-late,10,"January 15, 2025",late,RDFC,3,Sports Experts,0,,0,"SE forefit, no recording"
+24/25-GameDay11-early,11,"January 22, 2025",early,Sports Experts,1,Double Doubles,5,x,32,
+24/25-GameDay11-late,11,"January 22, 2025",late,North 60,4,RDFC,8,x,28,
+24/25-GameDay12-early,12,"January 29, 2025",early,RDFC,4,Double Doubles,3,x,33,
+24/25-GameDay12-late,12,"January 29, 2025",late,Sports Experts,4,North 60,3,x,29,missed end of game and last goal
+24/25-GameDay13-early,13,"February 5, 2025",early,Sports Experts,7,RDFC,4,x,20,
+24/25-GameDay13-late,13,"February 5, 2025",late,North 60,0,Double Doubles,2,x,55,
+24/25-GameDay14-early,14,"February 12, 2025",early,North 60,5,RDFC,2,x,22,
+24/25-GameDay14-late,14,"February 12, 2025",late,Double Doubles,6,Sports Experts,1,x,31,
+24/25-GameDay15-early,15,"February 19, 2025",early,Sports Experts,4,North 60,7,x,38,
+24/25-GameDay15-late,15,"February 19, 2025",late,Double Doubles,2,RDFC,3,x,38,
+24/25-SemiA-early,Semi A,"February 26, 2025",early,RDFC,2,Double Doubles,3,x,56,
+24/25-SemiB-late,Semi B,"February 26, 2025",late,Sports Experts,6,North 60,4,x,26,
+24/25-Bronze-early,Bronze,"March 5, 2025",early,RDFC,6,North 60,7,,31,
+24/25-Gold-late,Gold,"March 5, 2025",late,Sports Experts,6,Double Doubles,5,,94,

@@ -1,0 +1,205 @@
+game_day,Player,Team,goal_num,game_time
+GameDay1,Cody Reaume,North 60,1,early
+GameDay1,Domagoj Pehar,North 60,1,early
+GameDay1,Domagoj Pehar,North 60,2,early
+GameDay1,Marek Boulerice,North 60,1,early
+GameDay1,Mark Chandler,North 60,1,early
+GameDay1,Cody Adams,Timbits,1,early
+GameDay1,Daniel Phillips,Timbits,1,early
+GameDay1,Evan Howells,Timbits,1,early
+GameDay1,Matt Thompson,Timbits,1,early
+GameDay1,Harrison Kwok,Riverdale FC,1,late
+GameDay1,Harrison Kwok,Riverdale FC,2,late
+GameDay1,Harrison Kwok,Riverdale FC,3,late
+GameDay1,Jesse Latoski,Riverdale FC,1,late
+GameDay1,Jesse Latoski,Riverdale FC,2,late
+GameDay1,Lars Jessup,Riverdale FC,1,late
+GameDay1,Ben Warburton,Sports Experts,1,late
+GameDay1,Etnik Tarakaj,Sports Experts,1,late
+GameDay1,Etnik Tarakaj,Sports Experts,2,late
+GameDay1,Gabe Mahamad,Sports Experts,1,late
+GameDay1,Malcolm Muir,Sports Experts,1,late
+GameDay2,Gabe Mahamad,Sports Experts,1,early
+GameDay2,Gabe Mahamad,Sports Experts,2,early
+GameDay2,Malcolm Muir,Sports Experts,1,early
+GameDay2,Simon Kishchuk,Sports Experts,1,early
+GameDay2,Ade Ashu,Timbits,1,early
+GameDay2,Cody Adams,Timbits,1,early
+GameDay2,Cody Adams,Timbits,2,early
+GameDay2,Evan Howells,Timbits,1,early
+GameDay2,Domagoj Pehar,North 60,1,late
+GameDay2,Domagoj Pehar,North 60,2,late
+GameDay2,Marek Boulerice,North 60,1,late
+GameDay2,Mark Chandler,North 60,1,late
+GameDay2,Samuel Lee,North 60,1,late
+GameDay2,James Mitchell,Riverdale FC,1,late
+GameDay2,Jesse Latoski,Riverdale FC,1,late
+GameDay3,Harrison Kwok,Riverdale FC,1,early
+GameDay3,Harrison Kwok,Riverdale FC,2,early
+GameDay3,Harrison Kwok,Riverdale FC,3,early
+GameDay3,Jesse Latoski,Riverdale FC,1,early
+GameDay3,Sean Macdonald,Riverdale FC,1,early
+GameDay3,Myles Terry,Timbits,1,early
+GameDay3,Travis Banks,Timbits,1,early
+GameDay3,Domagoj Pehar,North 60,1,late
+GameDay3,Mark Chandler,North 60,1,late
+GameDay3,Michael Irish,North 60,1,late
+GameDay3,Michael Irish,North 60,2,late
+GameDay3,Ben Warburton,Sports Experts,1,late
+GameDay3,Etnik Tarakaj,Sports Experts,1,late
+GameDay3,Greg MacNeil,Sports Experts,1,late
+GameDay3,Malcolm Muir,Sports Experts,1,late
+GameDay4,Cody Reaume,North 60,1,early
+GameDay4,Ehab Alhag Hussen,North 60,1,early
+GameDay4,Michael Irish,North 60,1,early
+GameDay4,Samuel Lee,North 60,1,early
+GameDay4,Daniel Phillips,Timbits,1,early
+GameDay4,Daniel Phillips,Timbits,2,early
+GameDay4,Evan Howells,Timbits,1,early
+GameDay4,Travis Banks,Timbits,1,early
+GameDay4,Harrison Kwok,Riverdale FC,1,late
+GameDay4,Sean Macdonald,Riverdale FC,1,late
+GameDay4,Gabe Mahamad,Sports Experts,1,late
+GameDay4,Garrett Merz,Sports Experts,1,late
+GameDay4,Simon Kishchuk,Sports Experts,1,late
+GameDay5,Ben Warburton,Sports Experts,1,early
+GameDay5,Greg MacNeil,Sports Experts,1,early
+GameDay5,Cody Adams,Timbits,1,early
+GameDay5,Cody Adams,Timbits,2,early
+GameDay5,Evan Howells,Timbits,1,early
+GameDay5,Leo Whittaker,Timbits,1,early
+GameDay5,Myles Terry,Timbits,1,early
+GameDay5,Myles Terry,Timbits,2,early
+GameDay5,Myles Terry,Timbits,3,early
+GameDay5,Domagoj Pehar,North 60,1,late
+GameDay5,Kyle Riel,North 60,1,late
+GameDay5,Kyle Riel,North 60,2,late
+GameDay5,Mark Chandler,North 60,1,late
+GameDay5,Mark Chandler,North 60,2,late
+GameDay5,Harrison Kwok,Riverdale FC,1,late
+GameDay5,James Mitchell,Riverdale FC,1,late
+GameDay5,Owen Hedstrom-Langford,Riverdale FC,1,late
+GameDay6,Craig Caldwell,North 60,1,early
+GameDay6,Domagoj Pehar,North 60,1,early
+GameDay6,Kyle Riel,North 60,1,early
+GameDay6,Mark Chandler,North 60,1,early
+GameDay6,Samuel Lee,North 60,1,early
+GameDay6,Tristan Martin,North 60,1,early
+GameDay6,Etnik Tarakaj,Sports Experts,1,early
+GameDay6,Etnik Tarakaj,Sports Experts,2,early
+GameDay6,Garrett Merz,Sports Experts,1,early
+GameDay6,Marcelo Gotari,Sports Experts,1,early
+GameDay6,Marcelo Gotari,Sports Experts,2,early
+GameDay6,Marcelo Gotari,Sports Experts,3,early
+GameDay6,Simon Kishchuk,Sports Experts,1,early
+GameDay6,Owen Hedstrom-Langford,Riverdale FC,1,late
+GameDay6,Daniel Phillips,Timbits,1,late
+GameDay6,Kyan Morrison,Timbits,1,late
+GameDay6,Leo Whittaker,Timbits,1,late
+GameDay6,Myles Terry,Timbits,1,late
+GameDay6,Myles Terry,Timbits,2,late
+GameDay6,Travis Banks,Timbits,1,late
+GameDay7,Gabe Mahamad,Sports Experts,1,early
+GameDay7,Cody Reaume,North 60,1,late
+GameDay7,Cody Reaume,North 60,2,late
+GameDay7,Cody Reaume,North 60,3,late
+GameDay7,Kyle Riel,North 60,1,late
+GameDay7,Marek Boulerice,North 60,1,late
+GameDay7,Marek Boulerice,North 60,2,late
+GameDay7,Mark Chandler,North 60,1,late
+GameDay7,Myles Terry,Timbits,1,late
+GameDay8,Domagoj Pehar,North 60,1,early
+GameDay8,Kyle Riel,North 60,1,early
+GameDay8,Mark Chandler,North 60,1,early
+GameDay8,Sean Macdonald,Riverdale FC,1,early
+GameDay8,Gabe Mahamad,Sports Experts,1,late
+GameDay8,Gabe Mahamad,Sports Experts,2,late
+GameDay8,Marcelo Gotari,Sports Experts,1,late
+GameDay8,Mohamed Abasse Dahalani,Sports Experts,1,late
+GameDay8,Ade Ashu,Timbits,1,late
+GameDay8,Evan Howells,Timbits,1,late
+GameDay8,Evan Howells,Timbits,2,late
+GameDay8,Leo Whittaker,Timbits,1,late
+GameDay8,Leo Whittaker,Timbits,2,late
+GameDay8,Myles Terry,Timbits,1,late
+GameDay9,Harrison Kwok,Riverdale FC,1,early
+GameDay9,James Mitchell,Riverdale FC,1,early
+GameDay9,James Mitchell,Riverdale FC,2,early
+GameDay9,Jesse Latoski,Riverdale FC,1,early
+GameDay9,Owen Hedstrom-Langford,Riverdale FC,1,early
+GameDay9,Evan Howells,Timbits,1,early
+GameDay9,Evan Howells,Timbits,2,early
+GameDay9,Myles Terry,Timbits,1,early
+GameDay9,Cody Reaume,North 60,1,late
+GameDay9,Kyle Riel,North 60,1,late
+GameDay9,Kyle Riel,North 60,2,late
+GameDay9,Marek Boulerice,North 60,1,late
+GameDay9,Gabe Mahamad,Sports Experts,1,late
+GameDay9,Gabe Mahamad,Sports Experts,2,late
+GameDay9,Gabe Mahamad,Sports Experts,3,late
+GameDay9,Mohamed Abasse Dahalani,Sports Experts,1,late
+GameDay9,Mohamed Abasse Dahalani,Sports Experts,2,late
+GameDay10,Harrison Kwok,Riverdale FC,1,early
+GameDay10,Jesse Latoski,Riverdale FC,1,early
+GameDay10,Lars Jessup,Riverdale FC,1,early
+GameDay10,Marten Sealy,Riverdale FC,1,early
+GameDay10,Etnik Tarakaj,Sports Experts,1,early
+GameDay10,Cody Reaume,North 60,1,late
+GameDay10,Leo Whittaker,Timbits,1,late
+GameDay11,Craig Caldwell,North 60,1,early
+GameDay11,Marek Boulerice,North 60,1,early
+GameDay11,Marek Boulerice,North 60,2,early
+GameDay11,Marten Sealy,Riverdale FC,1,early
+GameDay11,Marten Sealy,Riverdale FC,2,early
+GameDay11,Tyler Milton,Sports Experts,1,late
+GameDay11,Daniel Phillips,Timbits,1,late
+GameDay11,Leo Whittaker,Timbits,1,late
+GameDay12,Cody Reaume,North 60,1,early
+GameDay12,Cody Reaume,North 60,2,early
+GameDay12,Domagoj Pehar,North 60,1,early
+GameDay12,Ehab Alhag Hussen,North 60,1,early
+GameDay12,Kyle Riel,North 60,1,early
+GameDay12,Mohamed Abasse Dahalani,Sports Experts,1,early
+GameDay12,Harrison Kwok,Riverdale FC,1,late
+GameDay12,Harrison Kwok,Riverdale FC,2,late
+GameDay12,Harrison Kwok,Riverdale FC,3,late
+GameDay12,Jesse Latoski,Riverdale FC,1,late
+GameDay12,Jesse Latoski,Riverdale FC,2,late
+GameDay12,Evan Howells,Timbits,1,late
+GameDay12,Leo Whittaker,Timbits,1,late
+GameDay12,Leo Whittaker,Timbits,2,late
+GameDay12,Leo Whittaker,Timbits,3,late
+GameDay12,Travis Banks,Timbits,1,late
+GameDay13,Kyle Riel,North 60,1,early
+GameDay13,Daniel Phillips,Timbits,1,early
+GameDay13,Daniel Phillips,Timbits,2,early
+GameDay13,Daniel Phillips,Timbits,3,early
+GameDay13,Leo Whittaker,Timbits,1,early
+GameDay13,Leo Whittaker,Timbits,2,early
+GameDay13,Leo Whittaker,Timbits,3,early
+GameDay13,Travis Banks,Timbits,1,early
+GameDay13,Harrison Kwok,Riverdale FC,1,late
+GameDay13,Harrison Kwok,Riverdale FC,2,late
+GameDay13,Harrison Kwok,Riverdale FC,3,late
+GameDay13,Etnik Tarakaj,Sports Experts,1,late
+GameDay13,Gabe Mahamad,Sports Experts,1,late
+GameDay13,Gabe Mahamad,Sports Experts,2,late
+GameDay13,Gabe Mahamad,Sports Experts,3,late
+GameDay14,Gabe Mahamad,Sports Experts,1,early
+GameDay14,Gabe Mahamad,Sports Experts,2,early
+GameDay14,Tyler Milton,Sports Experts,1,early
+GameDay14,Cody Reaume,North 60,1,late
+GameDay14,Domagoj Pehar,North 60,1,late
+GameDay14,Samuel Lee,North 60,1,late
+GameDay14,Lars Jessup,Riverdale FC,1,late
+GameDay14,Marten Sealy,Riverdale FC,1,late
+GameDay15,Harrison Kwok,Riverdale FC,1,early
+GameDay15,Harrison Kwok,Riverdale FC,2,early
+GameDay15,Logan Potter,Timbits,1,early
+GameDay15,Matt Thompson,Timbits,1,early
+GameDay15,Domagoj Pehar,North 60,1,late
+GameDay15,Ehab Alhag Hussen,North 60,1,late
+GameDay15,Mark Chandler,North 60,1,late
+GameDay15,Tristan Martin,North 60,1,late
+GameDay15,Mohamed Abasse Dahalani,Sports Experts,1,late
+GameDay15,Mohamed Abasse Dahalani,Sports Experts,2,late
